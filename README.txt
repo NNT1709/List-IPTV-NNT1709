@@ -111,9 +111,6 @@ https://1236573804.pop.vnptcdn.com/VTC14/playlist.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/VTC16_logo.png/revision/latest?cb=20201125134909&path -tiền tố=vi",VTC16
 https://1236573804.pop.vnptcdn.com/VTC16/playlist.m3u8
 
-#EXTINF:-1 group-title="?| Nhóm Kênh HCATV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/HiTV_logo_2013.png/revision/latest?cb =20230303020910&path-prefix=vi",HiTV - HCATV1
-https://wintv.fun/360/32/index.m3u8
-
 #EXTINF:-1 group-title="Nhóm Kênh K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ed/Kplus_Sport_1_2021.png/revision/latest?cb=20220127022008&path -prefix=vi",K+ Sport 1
 http://gg.gg/1a0mun
 #EXTINF:-1 group-title="Nhóm Kênh K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest?cb=20231208053311&path -prefix=vi",K+ Sport 2
@@ -125,19 +122,19 @@ https://edge1.laotv.la/live/K+Sport2/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/Kplus_Action_logo_2024.png/revision/latest?cb=20240330042537&path -prefix=vi",K+ Action (Luồng ON Plus)
 https://tinyurl.com/gtuufhhsfwj
 
-#EXTINF:-1 group-title="?| Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/ANTV_logo_2016.png/revision/latest? cb=20220918050217&path-prefix=vi",ANTV
+#EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/ANTV_logo_2016.png/revision/latest? cb=20220918050217&path-prefix=vi",ANTV
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
-#EXTINF:-1 group-title="?| Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/VNews.png/revision/latest? cb=20201020100923&path-prefix=vi",Vnews
+#EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/VNews.png/revision/latest? cb=20201020100923&path-prefix=vi",Vnews
 https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist_w1515940883.m3u8
-#EXTINF:-1 group-title="?| Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/VNews.png/revision/latest? cb=20201020100923&path-prefix=vi",Vnews (Luồng LaoTV)
+#EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/VNews.png/revision/latest? cb=20201020100923&path-prefix=vi",Vnews (Luồng LaoTV)
 https://edge1.laotv.la/live/Vnews/index.m3u8
-#EXTINF:-1 group-title="?| Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/KenhQuocHoi_logo_2022.png/revision/latest? cb=20230720095046&path-prefix=vi",Quốc Hội TV
+#EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/KenhQuocHoi_logo_2022.png/revision/latest? cb=20230720095046&path-prefix=vi",Quốc Hội TV
 http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
-#EXTINF:-1 group-title="?| Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/4/49/Nh%C3%A2n_D%C3% A2n_TV_logo_2023.png/revision/latest?cb=20240214144137&path-prefix=vi",Nhân Dân TV
+#EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/4/49/Nh%C3%A2n_D%C3% A2n_TV_logo_2023.png/revision/latest?cb=20240214144137&path-prefix=vi",Nhân Dân TV
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w2032123611.m3u8
-#EXTINF:-1 group-title="?| Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/QPVN_2013.png/revision/latest? cb=20220121034022&path-prefix=vi",QPVN
+#EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/QPVN_2013.png/revision/latest? cb=20220121034022&path-prefix=vi",QPVN
 https://playlive.qpvn.vn/live/qpvn.m3u8
-#EXTINF:-1 group-title="?| Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/VOVTV_HD.png/revision/latest? cb=20211209080958&path-prefix=vi",VOV TV
+#EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/VOVTV_HD.png/revision/latest? cb=20211209080958&path-prefix=vi",VOV TV
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
 #EXTINF:-1 group-title="Nhóm Kênh HBO " tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/HBO_2010_%28Silver%29.png/revision/latest ?cb=20230119144322&path-prefix=vi",HBO Việt Nam

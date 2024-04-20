@@ -11,7 +11,7 @@ http://103.179.189.113/khangpham/index.m3u8
 http://103.179.189.113/tpv1/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/1710653589104.png/revision/latest?cb= 20240317053753&path-prefix=vi",ATV1
 http://103.179.189.113/atv1/index.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/b/b3/Host_media.png/revision/latest?cb= 20240221105022", Phương tiện lưu trữ
+#EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/b/b3/Host_media.png/revision/latest?cb= 20240221105022", Host Media
 http://103.179.189.113/ntl/index.m3u8
 
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/VTV1_01.11.2022-nay.png/revision/latest ?cb=20230125075307&path-prefix=vi",VTV1

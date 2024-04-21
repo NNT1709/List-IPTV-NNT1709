@@ -183,10 +183,10 @@ https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Disney_Channel_2014_2.png/revision/latest?cb= 20231005234741&path-prefix=vi",Disney Channel
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421444
 
-#EXTINF:-1 group-title="Nhóm Kênh Phát Thành " tvg-logo="https://static.wikia.nocookie.net/central/images/a/a9/NNT1709_Radio.png/revision/latest?cb= 20240221074353",NNT1709 Radio
+#EXTINF:-1 group-title="Nhóm Kênh Phát Thanh " tvg-logo="https://static.wikia.nocookie.net/central/images/a/a9/NNT1709_Radio.png/revision/latest?cb= 20240221074353",NNT1709 Radio
 https://stream.zeno.fm/crwtkeidk9vuv
 #EXTINF:-1 group-title="Nhóm Kênh Phát Thanh " tvg-logo="https://static.wikia.nocookie.net/central/images/e/eb/1708500781992.png/revision/latest?cb= 20240221073404",LHQ Play
 https://stream.zeno.fm/vwofath8nz8tv
 
-#EXTINF:-1 group-title="Không xác định " tvg-logo="",Unknown 1 (Cinemax)
+#EXTINF:-1 group-title="Unknown " tvg-logo="",Unknown 1 (Cinemax)
 https://edge1.laotv.la/live/Cinemax/index.m3u8

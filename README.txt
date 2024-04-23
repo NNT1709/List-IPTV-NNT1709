@@ -186,3 +186,7 @@ https://stream.zeno.fm/vwofath8nz8tv
 
 #EXTINF:-1 group-title="Unknown " tvg-logo="",Unknown 1 (Cinemax)
 https://edge1.laotv.la/live/Cinemax/index.m3u8
+#EXTINF:-1 group-title="Unknown " tvg-logo="",Unknown 2 (K+ Sport1)
+https://edge2.laotv.la/live/K+Sport1/index.m3u8
+#EXTINF:-1 group-title="Unknown " tvg-logo="",Unknown 3 (K+ Sport2)
+https://edge1.laotv.la/live/K+Sport2/index.m3u8

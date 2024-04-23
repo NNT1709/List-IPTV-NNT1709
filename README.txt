@@ -115,10 +115,6 @@ https://1236573804.pop.vnptcdn.com/VTC16/playlist.m3u8
 http://gg.gg/1a0mun
 #EXTINF:-1 group-title="Nhóm Kênh K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest?cb=20231208053311&path -prefix=vi",K+ Sport 2
 http://gg.gg/1a0tdj
-#EXTINF:-1 group-title="Nhóm Kênh K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ed/Kplus_Sport_1_2021.png/revision/latest?cb=20220127022008&path -prefix=vi",K+ Sport 1 (Luồng LaoTV)
-https://edge2.laotv.la/live/K+Sport1/index.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest?cb=20231208053311&path -prefix=vi",K+ Sport 2 (Luồng LaoTV)
-https://edge1.laotv.la/live/K+Sport2/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/Kplus_Action_logo_2024.png/revision/latest?cb=20240330042537&path -prefix=vi",K+ Action (Luồng ON Plus)
 https://tinyurl.com/gtuufhhsfwj
 

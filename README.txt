@@ -1,17 +1,17 @@
 #List IPTV Thuộc Bởi NNT1709 Network
 
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/d/d9/1000100242.png/revision/latest?cb= 20240117110654",Chill With Na
-http://103.179.189.113/cwn/index.m3u8
+https://doitac.nekocdn.xyz/NNT1709Ch/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e6/Logo_lvtt.png/revision/latest?cb= 20240323163414&path-prefix=vi",LVTT
-http://103.179.189.113/lvtt/index.m3u8
+https://doitac.nekocdn.xyz/LVTTTV/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/4/4d/Kpt.png/revision/latest?cb= 20240221072137",KPT
-http://103.179.189.113/khangpham/index.m3u8
+https://doitac.nekocdn.xyz/KPTTV/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/f/f1/Tpv1_tpv2.png/revision/latest?cb= 20240221072755",TPV1+TPV2
-http://103.179.189.113/tpv1/index.m3u8
+https://doitac.nekocdn.xyz/TPV/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/1710653589104.png/revision/latest?cb= 20240317053753&path-prefix=vi",ATV1
-http://103.179.189.113/atv1/index.m3u8
+https://doitac.nekocdn.xyz/ATVHD/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/b/b3/Host_media.png/revision/latest?cb= 20240221105022", Host Media
-http://103.179.189.113/ntl/index.m3u8
+https://doitac.nekocdn.xyz/HostWeekly/index.m3u8
 
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/VTV1_01.11.2022-nay.png/revision/latest ?cb=20230125075307&path-prefix=vi",VTV1
 https://apps3.101vn.com/cl.php?id=1&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}Bv(*)jcv(*)j[ gyN{O[gxNjo1(*)(T&type=rd

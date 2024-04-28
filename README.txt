@@ -189,6 +189,10 @@ https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 https://edge1.laotv.la/live/CCTV3/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/9/95/CCTV4_logo_2015.png/revision/latest/scale-to-width-down/250?cb=20230404104732&path-prefix=vi",CCTV4
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+#EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CCTV-5_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest/scale-to-width-down/250?cb=20220319061806&path-prefix=vi",CCTV5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/CCTV5%2B_HD.png/revision/latest/scale-to-width-down/250?cb=20220226104639&path-prefix=vi",CCTV5+
+https://edge1.laotv.la/live/CCTV5+/index.m3u8
 
 #EXTINF:-1 group-title="Unknown " tvg-logo="",Unknown 1 (Cinemax)
 https://edge1.laotv.la/live/Cinemax/index.m3u8

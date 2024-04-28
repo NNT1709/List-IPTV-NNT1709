@@ -49,10 +49,12 @@ http://s4.nihontv.net:21585/vtv3/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/VTV4_21.02.2023-nay.png/revision/latest ?cb=20230928042845&path-prefix=vi",VTV4 (Dự Phòng)
 http://s4.nihontv.net:21585/vtv4/index.m3u8
 
-#EXTINF:-1 group-title="Nhóm Kênh VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/ON_Vie_Gi%E1%BA%A3i_tr%C3%AD .png/revision/latest?cb=20230113092404&path-prefix=vi",ON Vie Giải Trí
+#EXTINF:-1 group-title="Nhóm Kênh VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/ON_Vie_Gi%E1%BA%A3i_tr%C3%AD.png/revision/latest?cb=20230113092404&path-prefix=vi",ON Vie Giải Trí
 http://s4live.tv1asia.com:21585/vtvcab1/index.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3e/ON_Phim_Vi%E1%BB%87t_logo.png/revision /latest?cb=20230922042146&path-prefix=vi",ON Phim Việt
+#EXTINF:-1 group-title="Nhóm Kênh VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3e/ON_Phim_Vi%E1%BB%87t_logo.png/revision/latest?cb=20230922042146&path-prefix=vi",ON Phim Việt
 http://s4live.tv1asia.com:21585/vtvcab2/index.m3u8
+#EXTINF:-1 group-title="Nhóm Kênh VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d3/ON_Sports_logo_2022.png/revision/latest?cb=20220311023726&path-prefix=vi",ON Sports
+https://tth.vn/onsport
 
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9d/HTV1_logo_10-03-2023.png/revision/latest ?cb=20231227101553&path-prefix=vi",HTV1
 http://str1.cvtv.xyz/htv1?token=live

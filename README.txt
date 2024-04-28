@@ -1,4 +1,5 @@
 #List IPTV Thuộc Bởi NNT1709 Network
+https://nnt1709network.blogspot.com
 
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/d/d9/1000100242.png/revision/latest?cb=20240117110654",Chill With Na
 https://doitac.nekocdn.xyz/NNT1709Ch/index.m3u8
@@ -182,7 +183,7 @@ https://stream.zeno.fm/vwofath8nz8tv
 
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/CCTV-1_HD.png/revision/latest?cb=20220508121352&path-prefix=vi",CCTV1
 https://edge1.laotv.la/live/CCTV1/index.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh Quốc Tế " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CCTV-2_HD.png/revision/latest?cb=20220508121311&path-prefix=vi",CCTV2
+#EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CCTV-2_HD.png/revision/latest?cb=20220508121311&path-prefix=vi",CCTV2
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 
 #EXTINF:-1 group-title="Unknown " tvg-logo="",Unknown 1 (Cinemax)

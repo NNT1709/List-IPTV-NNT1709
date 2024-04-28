@@ -195,6 +195,8 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 https://edge1.laotv.la/live/CCTV5+/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/CCTV6_logo_2015.png/revision/latest?cb=20220514112708&path-prefix=vi",CCTV6 - China Movie
 https://epg.pw/stream/17a2cd6baf28eea74e93e9c0b1cafec7c77e144ab58c001890a95b7a942db8b4.m3u8
+#EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7a/CCTV-7_HD.png/revision/latest?cb=20230320093155&path-prefix=vi",CCTV7
+https://edge1.laotv.la/live/CCTV7/index.m3u8
 
 
 #EXTINF:-1 group-title="Unknown " tvg-logo="",Unknown 1 (Cinemax)

@@ -185,6 +185,10 @@ https://stream.zeno.fm/vwofath8nz8tv
 https://edge1.laotv.la/live/CCTV1/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CCTV-2_HD.png/revision/latest?cb=20220508121311&path-prefix=vi",CCTV2
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/CCTV3_logo_2015.png/revision/latest?cb=20230829053132&path-prefix=vi",CCTV3
+https://edge1.laotv.la/live/CCTV3/index.m3u8
+#EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/9/95/CCTV4_logo_2015.png/revision/latest/scale-to-width-down/250?cb=20230404104732&path-prefix=vi",CCTV4
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 
 #EXTINF:-1 group-title="Unknown " tvg-logo="",Unknown 1 (Cinemax)
 https://edge1.laotv.la/live/Cinemax/index.m3u8

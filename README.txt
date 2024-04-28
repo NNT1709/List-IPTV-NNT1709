@@ -209,6 +209,8 @@ http://103.130.141.67:81/live/11/playlist.m3u8
 http://103.130.141.67:81/live/12/playlist.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7e/CCTV13_logo_2019.png/revision/latest?cb=20220508121826&path-prefix=vi",CCTV13
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/5/58/CCTV14_logo_2015.png/revision/latest?cb=20220509130048&path-prefix=vi",CCTV14
+https://edge1.laotv.la/live/CCTV14/index.m3u8
 
 #EXTINF:-1 group-title="Unknown " tvg-logo="",Unknown 1 (Cinemax)
 https://edge1.laotv.la/live/Cinemax/index.m3u8

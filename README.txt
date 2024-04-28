@@ -165,17 +165,20 @@ https://edge1.laotv.la/live/LNTV1/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Quốc Tế " tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/Lntv3.png/revision/latest?cb= 20220308011555&path-prefix=vi",LNTV3 Lào (Luồng LaoTV)
 https://edge1.laotv.la/live/LNTV3/index.m3u8
 
-#EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/ZooMoo_2020.png/revision/latest?cb= 20231107095003&path-prefix=vi",ZooMoo
+#EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/ZooMoo_2020.png/revision/latest?cb=20231107095003&path-prefix=vi",ZooMoo
 https://cdn-apse1-prod.tsv2.amagi.tv/Tuyến/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Baby_TV.png/revision/latest?cb= 20220208080006&path-prefix=vi",BabyTV
+#EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Baby_TV.png/revision/latest?cb=20220208080006&path-prefix=vi",BabyTV
 http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Cartoon_Network_logo.svg/revision/latest?cb= 20230502034414&path-prefix=vi",Cartoon Network
+#EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Cartoon_Network_logo.svg/revision/latest?cb=20230502034414&path-prefix=vi",Cartoon Network
 http://s4.nihontv.net:21585/cartoon/index.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Cartoon_Network_logo.svg/revision/latest?cb= 20230502034414&path-prefix=vi",Cartoon Network Asia
+#EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Cartoon_Network_logo.svg/revision/latest?cb=20230502034414&path-prefix=vi",Cartoon Network Asia
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Cartoon_Network_logo.svg/revision/latest?cb= 20230502034414&path-prefix=vi",Cartoon Network Asia (Luồng LaoTV)
+#EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Cartoon_Network_logo.svg/revision/latest?cb=20230502034414&path-prefix=vi",Cartoon Network Asia (Luồng LaoTV)
 https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Disney_Channel_2014_2.png/revision/latest?cb= 20231005234741&path-prefix=vi",Disney Channel
+#EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b8/Cartoonito_logo.png/revision/latest?cb=20240103022339&path-prefix=vi",Cartoon Nito
+http://iptvzin.asuscomm.com:9876/rtp/232.84.3.60:11692
+
+#EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Disney_Channel_2014_2.png/revision/latest?cb=20231005234741&path-prefix=vi",Disney Channel
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421444
 
 #EXTINF:-1 group-title="Nhóm Kênh Phát Thanh " tvg-logo="https://static.wikia.nocookie.net/central/images/a/a9/NNT1709_Radio.png/revision/latest?cb= 20240221074353",NNT1709 Radio

@@ -157,10 +157,6 @@ http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Quốc Tế " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Korea_Central_Television_2005.svg/revision/latest?cb= 20180426214949",KCTV Triều Tiên
 https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 group-title="Nhóm Kênh Quốc Tế " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/CCTV-1_HD.png/revision/latest? cb=20220508121352&path-prefix=vi",CCTV1 Trung Quốc
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh Quốc Tế " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/CCTV-1_HD.png/revision/latest? cb=20220508121352&path-prefix=vi",CCTV1 Trung Quốc (Luồng LaoTV)
-https://edge1.laotv.la/live/CCTV1/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Quốc Tế " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Lntv1logo.png/revision/latest?cb= 20170730160139",LNTV1 Lào (Luồng LaoTV)
 https://edge1.laotv.la/live/LNTV1/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Quốc Tế " tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/Lntv3.png/revision/latest?cb= 20220308011555&path-prefix=vi",LNTV3 Lào (Luồng LaoTV)
@@ -183,6 +179,11 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421444
 https://stream.zeno.fm/crwtkeidk9vuv
 #EXTINF:-1 group-title="Nhóm Kênh Phát Thanh " tvg-logo="https://static.wikia.nocookie.net/central/images/e/eb/1708500781992.png/revision/latest?cb= 20240221073404",LHQ Play
 https://stream.zeno.fm/vwofath8nz8tv
+
+#EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/CCTV-1_HD.png/revision/latest?cb=20220508121352&path-prefix=vi",CCTV1
+https://edge1.laotv.la/live/CCTV1/index.m3u8
+#EXTINF:-1 group-title="Nhóm Kênh Quốc Tế " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CCTV-2_HD.png/revision/latest?cb=20220508121311&path-prefix=vi",CCTV2
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 
 #EXTINF:-1 group-title="Unknown " tvg-logo="",Unknown 1 (Cinemax)
 https://edge1.laotv.la/live/Cinemax/index.m3u8

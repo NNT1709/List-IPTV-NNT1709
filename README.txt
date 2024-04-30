@@ -32,7 +32,7 @@ https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv5tn-720p.m3u8
 https://apps3.101vn.com/cl.php?id=6&token=(*)TEzLjE3OS4y(*)TUu(*)jE4&st=(*)9}(Tv(*)Tkv(*)j[gyN{O [gxOTOxNg&type=rd
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ea/VTV7_logo_2018-2022_%28HD%29.png/revision/latest?cb=20230927051023&path-prefix=vi",VTV7
 https://apps3.101vn.com/cl.php?id=27&token=(*)T(Tu(*)TcwLjgwLjB-0Nw&st=(*)9}Bv(*)T(Tv(*)j[gyN{ O[gwOTOzO[g&type=rd
-#EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/VTV8_2023.png/revision/latest?cb=20240104122947&path-tiền tố=vi",VTV8
+#EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/VTV8_logo_%28s%E1%BB%AD_d%E1%BB%A5ng_t%E1%BB%AB_ch%C6%B0%C6%A1ng_tr%C3%ACnh_Th%E1%BB%9Di_s%E1%BB%B1%29.png/revision/latest?cb=20220206052346&path-prefix=vi",VTV8
 https://apps3.101vn.com/cl.php?id=36&token=(*)T(Tu(*)TcwLjgwLjB-0Nw&st=(*)9}Bv(*)T(Tv(*)j[gyN{ O[gwOTOzO(T&type=rd
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/VTV9_logo_%28%C3%A1p_d%E1%BB%A5ng_cho_s%C3%B3ng_HD%29.png/revision/latest?cb=20211230021601&path-prefix=vi",VTV9
 https://apps3.101vn.com/cl.php?id=39&token=(*)T(Tu(*)TcwLjgwLjB-0Nw&st=(*)9}Bv(*)T(Tv(*)j[gyN{ O[gwOTo0(*)[g&type=rd

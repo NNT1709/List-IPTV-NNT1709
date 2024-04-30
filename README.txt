@@ -45,7 +45,7 @@ https://edge1.laotv.la/live/VTV3/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/VTV1_01.11.2022-nay.png/revision/latest ?cb=20230125075307&path-prefix=vi",VTV1 (Dự Phòng)
 http://s4.nihontv.net:21585/vtv1/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/VTV2_14-15.05.2023%3B_06-14.06.2023 .png/revision/latest?cb=20230928042850&path-prefix=vi",VTV2 (Dự Phòng)
-http://s4.nihontv.net:21585/vtv2/index.m3u8
+http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/VTV3_01.11.2022-nay.png/revision/latest ?cb=20230125075313&path-prefix=vi",VTV3 (Dự Phòng)
 http://s4.nihontv.net:21585/vtv3/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/VTV4_21.02.2023-nay.png/revision/latest ?cb=20230928042845&path-prefix=vi",VTV4 (Dự Phòng)

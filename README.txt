@@ -181,7 +181,7 @@ https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 http://iptvzin.asuscomm.com:9876/rtp/232.84.3.60:11692
 
 #EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/Animax_2016.png/revision/latest?cb=20231230054213&path-prefix=vi",Animax (Luồng NNT1709 Network)
-http://hqth.me/nnt1709animax
+
 
 #EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Disney_Channel_2014_2.png/revision/latest?cb=20231005234741&path-prefix=vi",Disney Channel
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421444

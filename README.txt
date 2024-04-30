@@ -36,6 +36,8 @@ https://apps3.101vn.com/cl.php?id=27&token=(*)T(Tu(*)TcwLjgwLjB-0Nw&st=(*)9}Bv(*
 https://apps3.101vn.com/cl.php?id=36&token=(*)T(Tu(*)TcwLjgwLjB-0Nw&st=(*)9}Bv(*)T(Tv(*)j[gyN{ O[gwOTOzO(T&type=rd
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/VTV9_logo_%28%C3%A1p_d%E1%BB %A5ng_cho_s%C3%B3ng_HD%29.png/revision/latest?cb=20211230021601&path-prefix=vi",VTV9
 https://apps3.101vn.com/cl.php?id=39&token=(*)T(Tu(*)TcwLjgwLjB-0Nw&st=(*)9}Bv(*)T(Tv(*)j[gyN{ O[gwOTo0(*)[g&type=rd
+#EXTINF:-1 group-group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/VTV1_01.11.2022-nay.png/revision /latest?cb=20230125075307&path-prefix=vi",VTV1 (Luồng VTC)
+https://vtc301220.cdn.vnns.io/VTV1HD.stream/playlist.m3u8
 #EXTINF:-1 group-group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/VTV1_01.11.2022-nay.png/revision /latest?cb=20230125075307&path-prefix=vi",VTV1 (Luồng LaoTV)
 https://edge1.laotv.la/live/VTV1SD/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/VTV3_01.11.2022-nay.png/revision/latest ?cb=20230125075313&path-prefix=vi",VTV3 (Luồng LaoTV)
@@ -178,16 +180,11 @@ https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b8/Cartoonito_logo.png/revision/latest?cb=20240103022339&path-prefix=vi",Cartoon Nito
 http://iptvzin.asuscomm.com:9876/rtp/232.84.3.60:11692
 
-#EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/Animax_2016.png/revision/latest?cb=20231230054213&path-prefix=vi",Animax
+#EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/Animax_2016.png/revision/latest?cb=20231230054213&path-prefix=vi",Animax (Luồng NNT1709 Network)
 http://hqth.me/nnt1709animax
 
 #EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Disney_Channel_2014_2.png/revision/latest?cb=20231005234741&path-prefix=vi",Disney Channel
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421444
-
-#EXTINF:-1 group-title="Nhóm Kênh Phát Thanh " tvg-logo="https://static.wikia.nocookie.net/central/images/a/a9/NNT1709_Radio.png/revision/latest?cb= 20240221074353",NNT1709 Radio
-https://stream.zeno.fm/crwtkeidk9vuv
-#EXTINF:-1 group-title="Nhóm Kênh Phát Thanh " tvg-logo="https://static.wikia.nocookie.net/central/images/e/eb/1708500781992.png/revision/latest?cb= 20240221073404",LHQ Play
-https://stream.zeno.fm/vwofath8nz8tv
 
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/CCTV-1_HD.png/revision/latest?cb=20220508121352&path-prefix=vi",CCTV1
 https://edge1.laotv.la/live/CCTV1/index.m3u8
@@ -223,6 +220,11 @@ https://edge1.laotv.la/live/CCTV14/index.m3u8
 https://edge1.laotv.la/live/CCTV15/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/CCTV-16_4K.png/revision/latest?cb=20220508121932&path-prefix=vi",CCTV16
 https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
+
+#EXTINF:-1 group-title="Nhóm Kênh Phát Thanh " tvg-logo="https://static.wikia.nocookie.net/central/images/a/a9/NNT1709_Radio.png/revision/latest?cb=20240221074353",NNT1709 Radio
+https://stream.zeno.fm/crwtkeidk9vuv
+#EXTINF:-1 group-title="Nhóm Kênh Phát Thanh " tvg-logo="https://static.wikia.nocookie.net/central/images/e/eb/1708500781992.png/revision/latest?cb=20240221073404",LHQ Play
+https://stream.zeno.fm/vwofath8nz8tv
 
 #EXTINF:-1 group-title="Unknown " tvg-logo="",Unknown 1 (Cinemax)
 https://edge1.laotv.la/live/Cinemax/index.m3u8

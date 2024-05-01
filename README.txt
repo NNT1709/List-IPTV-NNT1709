@@ -63,7 +63,7 @@ https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/06/Vie_Channel.png/revision/latest?cb=20240104083041&path -tiền tố=vi",HTV2
 http://s4live.tv1asia.com:21585/htv2/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/HTV3_logo_2018-nay.png/revision/latest?cb =20231116060153&path-prefix=vi",HTV3
-http://123.21.223.9:8081/sctv/s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline. vn/hls/htv3/index.m3u8?token=z9sm7t1dApUFhyWkn6az8w&e=1712137567
+http://iptvzin.asuscomm.com:9876/rtp/232.84.3.56:11716
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/de/HTV_Key_logo_2022.png/revision/latest?cb=20230413121514&path -prefix=vi",HTV Key
 https://vc.101vn.com/htv/htvcmb.php?id=2528
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0c/HTV7_logo_2023.png/revision/latest?cb=20240207041541&path -tiền tố=vi",HTV7
@@ -73,17 +73,7 @@ https://vc.101vn.com/htv/htvcmb.php?id=2667
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/HTV_co.op_2018.png/revision/latest?cb =20231022095129&path-prefix=vi",HTV Co.op
 https://1011337676.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/HTV_Th%E1%BB%83_thao_logo.png/revision /latest?cb=20231108113057&path-prefix=vi",HTV Thể Thao
-https://epg.pw/stream/8fbec74a0f1d718d0064bf094ecba749b0a7a0f303489ed7fc7b0bf080685985.ctv
-#EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/06/Vie_Channel.png/revision/latest?cb=20240104083041&path -prefix=vi",HTV2 (Dự Phòng)
-https://epg.pw/stream/2aeff23608f63370b5a84d7ba632d94eb57bcf99f36da09c27656c0be3b85c73.ctv
-#EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/HTV3_logo_2018-nay.png/revision/latest?cb =20231116060153&path-prefix=vi",HTV3 (Dự Phòng)
-https://epg.pw/stream/38124b1f50bce072b8e5af0c3f9f29e964c424b57425608509e9ea42e3815dcd.ctv
-#EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/de/HTV_Key_logo_2022.png/revision/latest?cb=20230413121514&path -prefix=vi",HTV Key (Dự Phòng)
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8?
-#EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0c/HTV7_logo_2023.png/revision/latest?cb=20240207041541&path -prefix=vi",HTV7 (Dự Phòng)
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8?
-#EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/HTV9_logo_ch%C3%ADnh_28.07-04.08.2023 .png/revision/latest?cb=20230731122629&path-prefix=vi",HTV9 (Dự Phòng)
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8?
+http://171.238.180.25:18080/304.m3u8
 
 #EXTINF:-1 group-title="Nhóm Kênh VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/VTC1_logo_YouTube_VTC1_-_TIN_T%E1%BB%A8C.png /revision/latest?cb=20230701012439&path-prefix=vi",VTC1
 https://1236573804.pop.vnptcdn.com/VTC1/playlist.m3u8

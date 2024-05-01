@@ -59,13 +59,13 @@ http://s4live.tv1asia.com:21585/vtvcab2/index.m3u8
 https://tth.vn/onsport
 
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9d/HTV1_logo_10-03-2023.png/revision/latest ?cb=20231227101553&path-prefix=vi",HTV1
-http://str1.cvtv.xyz/htv1?token=live
+https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/06/Vie_Channel.png/revision/latest?cb=20240104083041&path -tiền tố=vi",HTV2
 http://s4live.tv1asia.com:21585/htv2/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/HTV3_logo_2018-nay.png/revision/latest?cb =20231116060153&path-prefix=vi",HTV3
 http://123.21.223.9:8081/sctv/s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline. vn/hls/htv3/index.m3u8?token=z9sm7t1dApUFhyWkn6az8w&e=1712137567
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/de/HTV_Key_logo_2022.png/revision/latest?cb=20230413121514&path -prefix=vi",HTV Key
-http://str1.cvtv.xyz/htv4?token=live
+https://vc.101vn.com/htv/htvcmb.php?id=2528
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0c/HTV7_logo_2023.png/revision/latest?cb=20240207041541&path -tiền tố=vi",HTV7
 https://vc.101vn.com/htv/htvcmb.php?id=256
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/HTV9_logo_ch%C3%ADnh_28.07-04.08.2023 .png/revision/latest?cb=20230731122629&path-prefix=vi",HTV9
@@ -125,9 +125,7 @@ https://tinyurl.com/gtuufhhsfwj
 
 #EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/ANTV_logo_2016.png/revision/latest? cb=20220918050217&path-prefix=vi",ANTV
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/VNews.png/revision/latest? cb=20201020100923&path-prefix=vi",Vnews
-https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist_w1515940883.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/VNews.png/revision/latest? cb=20201020100923&path-prefix=vi",Vnews (Luồng LaoTV)
+#EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/VNews.png/revision/latest? cb=20201020100923&path-prefix=vi",Vnews 
 https://edge1.laotv.la/live/Vnews/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/KenhQuocHoi_logo_2022.png/revision/latest? cb=20230720095046&path-prefix=vi",Quốc Hội TV
 http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8

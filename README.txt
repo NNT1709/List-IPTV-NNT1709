@@ -191,7 +191,7 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/CCTV5%2B_HD.png/revision/latest/scale-to-width-down/250?cb=20220226104639&path-prefix=vi",CCTV5+
 https://edge1.laotv.la/live/CCTV5+/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/CCTV6_logo_2015.png/revision/latest?cb=20220514112708&path-prefix=vi",CCTV6 - China Movie
-https://epg.pw/stream/f2a3f4d8ff377b5c5fb5eadcb530e207bb3c8a43f7d674e2edd6da7f850b010b.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7a/CCTV-7_HD.png/revision/latest?cb=20230320093155&path-prefix=vi",CCTV7
 https://edge1.laotv.la/live/CCTV7/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fe/CCTV8_logo_2015.png/revision/latest?cb=20220509125301&path-prefix=vi",CCTV8

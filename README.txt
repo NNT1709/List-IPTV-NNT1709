@@ -212,6 +212,8 @@ https://edge1.laotv.la/live/CCTV14/index.m3u8
 https://edge1.laotv.la/live/CCTV15/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/CCTV-16_4K.png/revision/latest?cb=20220508121932&path-prefix=vi",CCTV16
 https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
+#EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/9/96/CCTV-17_HD.png/revision/latest?cb=20230320092913&path-prefix=vi",CCTV17
+https://epg.pw/stream/dddefc79612b67b3cf82b2c6e138c410f87628a60ce50a269f6e8dec056c23a8.m3u8
 
 #EXTINF:-1 group-title="Nhóm Kênh Phát Thanh " tvg-logo="https://static.wikia.nocookie.net/central/images/a/a9/NNT1709_Radio.png/revision/latest?cb=20240221074353",NNT1709 Radio
 https://stream.zeno.fm/crwtkeidk9vuv

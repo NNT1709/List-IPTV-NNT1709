@@ -169,12 +169,10 @@ http://s4.nihontv.net:21585/cartoon/index.m3u8
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Cartoon_Network_logo.svg/revision/latest?cb=20230502034414&path-prefix=vi",Cartoon Network Asia (Luồng LaoTV)
 https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b8/Cartoonito_logo.png/revision/latest?cb=20240103022339&path-prefix=vi",Cartoon Nito
-http://iptvzin.asuscomm.com:9876/rtp/232.84.3.60:11692
-
+#EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b8/Cartoonito_logo.png/revision/latest?cb=20240103022339&path-prefix=vi",Cartoon Nito Asia
+https://bkm.beetv.kz/btv/live/hls/000000160.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/Animax_2016.png/revision/latest?cb=20231230054213&path-prefix=vi",Animax (Luồng NNT1709 Network)
 https://hqth.me/nnt1709animax
-
 #EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Disney_Channel_2014_2.png/revision/latest?cb=20231005234741&path-prefix=vi",Disney Channel
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421444
 

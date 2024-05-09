@@ -17,11 +17,11 @@ https://doitac.nekocdn.xyz/HostWeekly/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/VTV1_01.11.2022-nay.png/revision/latest?cb=20230125075307&path-prefix=vi",VTV1
 https://vtc301220.cdn.vnns.io/VTV1HD.stream/playlist.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/VTV2_14-15.05.2023%3B_06-14.06.2023.png/revision/latest?cb=20230928042850&path-prefix=vi",VTV2
-https://apps3.101vn.com/cl.php?id=2&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}Bv(*)TYv(*)j[ gyN{O[gxOToxO[g&type=rd
+http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/VTV3_01.11.2022-nay.png/revision/latest?cb=20230125075313&path-prefix=vi",VTV3
-https://apps3.101vn.com/cl.php?id=3&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}Bv(*)jcv(*)j[ gyN{O[gxNzox(*)[g&type=rd
+http://118.107.85.4:1935/live/smil:VTV3.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/VTV4_21.02.2023-nay.png/revision/latest?cb=20230928042845&path-prefix=vi",VTV4
-https://apps3.101vn.com/cl.php?id=4&token=(*)T(Tu(*)TcwLjgwLjB-0Nw&st=(*)9}Bv(*)T(Tv(*)j[gyN{ O[gwOToyO(T&type=rd
+http://s4.nihontv.net:21585/vtv4/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/VTV5_logo_2018_%28SD%2C_logo_tr%E1%BB%B1c_ti%E1%BA%BFp%29.png/revision/latest?cb=20230802074615&path-prefix=vi",VTV5
 http://171.238.181.52:18080/194.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/VTV5_T%C3%A2y_Nam_B%E1%BB%99_31.10.2022.png/revision/latest?cb=20231119124839&path-prefix=vi",VTV5 Tây Nam Bộ

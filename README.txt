@@ -29,19 +29,13 @@ https://apps3.101vn.com/cl.php?id=7&token=(*)TEzLjE3OS4y(*)TUu(*)jE4&st=(*)9}(Tv
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d5/VTV5_T%C3%A2y_Nguy%C3%AAn_%28B%E1%BA%A3n_2%29.png/revision/latest?cb=20220530125853&path-prefix=vi",VTV5 Tây Nguyên
 https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv5tn-720p.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/05/VTV_C%E1%BA%A7n_Th%C6%A1_HD_logo_m%C3%A0n_h%C3%ACnh_2022.png/revision/latest?cb=20240114133012&path-prefix=vi",VTV Cần Thơ
-https://apps3.101vn.com/cl.php?id=6&token=(*)TEzLjE3OS4y(*)TUu(*)jE4&st=(*)9}(Tv(*)Tkv(*)j[gyN{O [gxOTOxNg&type=rd
+http://171.238.181.52:18080/156.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ea/VTV7_logo_2018-2022_%28HD%29.png/revision/latest?cb=20230927051023&path-prefix=vi",VTV7
 https://apps3.101vn.com/cl.php?id=27&token=(*)T(Tu(*)TcwLjgwLjB-0Nw&st=(*)9}Bv(*)T(Tv(*)j[gyN{ O[gwOTOzO[g&type=rd
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/VTV8_logo_%28s%E1%BB%AD_d%E1%BB%A5ng_t%E1%BB%AB_ch%C6%B0%C6%A1ng_tr%C3%ACnh_Th%E1%BB%9Di_s%E1%BB%B1%29.png/revision/latest?cb=20220206052346&path-prefix=vi",VTV8
 https://apps3.101vn.com/cl.php?id=36&token=(*)T(Tu(*)TcwLjgwLjB-0Nw&st=(*)9}Bv(*)T(Tv(*)j[gyN{ O[gwOTOzO(T&type=rd
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/VTV9_logo_%28%C3%A1p_d%E1%BB%A5ng_cho_s%C3%B3ng_HD%29.png/revision/latest?cb=20211230021601&path-prefix=vi",VTV9
 https://apps3.101vn.com/cl.php?id=39&token=(*)T(Tu(*)TcwLjgwLjB-0Nw&st=(*)9}Bv(*)T(Tv(*)j[gyN{ O[gwOTo0(*)[g&type=rd
-#EXTINF:-1 group-group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/VTV1_01.11.2022-nay.png/revision/latest?cb=20230125075307&path-prefix=vi",VTV1 (Luồng VTC)
-https://vtc301220.cdn.vnns.io/VTV1HD.stream/playlist.m3u8
-#EXTINF:-1 group-group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/VTV1_01.11.2022-nay.png/revision/latest?cb=20230125075307&path-prefix=vi",VTV1 (Luồng LaoTV)
-https://edge1.laotv.la/live/VTV1SD/index.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/VTV3_01.11.2022-nay.png/revision/latest?cb=20230125075313&path-prefix=vi",VTV3 (Luồng LaoTV)
-https://edge1.laotv.la/live/VTV3/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/VTV1_01.11.2022-nay.png/revision/latest?cb=20230125075307&path-prefix=vi",VTV1 (Dự Phòng)
 http://s4.nihontv.net:21585/vtv1/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/VTV2_14-15.05.2023%3B_06-14.06.2023.png/revision/latest?cb=20230928042850&path-prefix=vi",VTV2 (Dự Phòng)

@@ -105,11 +105,11 @@ https://1236573804.pop.vnptcdn.com/VTC14/playlist.m3u8
 https://1236573804.pop.vnptcdn.com/VTC16/playlist.m3u8
 
 #EXTINF:-1 group-title="Nhóm Kênh K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ed/Kplus_Sport_1_2021.png/revision/latest?cb=20220127022008&path -prefix=vi",K+ Sport 1
-https://archive.org/download/km_20240413_720p_60f_20240413_161213/km_20240413_720p_60f_20240413_161213.mp4
+https://archive.org/download/player-0/Player_0.ia.mp4
 #EXTINF:-1 group-title="Nhóm Kênh K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest?cb=20231208053311&path -prefix=vi",K+ Sport 2
-https://archive.org/download/km_20240413_720p_60f_20240413_161213/km_20240413_720p_60f_20240413_161213.mp4
+https://archive.org/download/player-0/Player_0.ia.mp4
 #EXTINF:-1 group-title="Nhóm Kênh K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/Kplus_Action_logo_2024.png/revision/latest?cb=20240330042537&path -prefix=vi",K+ Action (Luồng ON Plus)
-https://tinyurl.com/gtuufhhsfwj
+https://archive.org/download/player-0/Player_0.ia.mp4
 
 #EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu " tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/ANTV_logo_2016.png/revision/latest? cb=20220918050217&path-prefix=vi",ANTV
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8

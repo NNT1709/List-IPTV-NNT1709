@@ -172,6 +172,15 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Disney_Channel_2014_2.png/revision/latest?cb=20231005234741&path-prefix=vi",Disney Channel
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421444
 
+#EXTINF:-1 group-title="Nhóm Kênh Thể Thao " tvg-logo="",True Premier Football 1
+http://livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186576&extension=m3u8
+#EXTINF:-1 group-title="Nhóm Kênh Thể Thao " tvg-logo="",True Premier Football 2
+http://livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186569&extension=m3u8
+#EXTINF:-1 group-title="Nhóm Kênh Thể Thao " tvg-logo="",True Premier Football 3
+http://livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186573&extension=m3u8
+#EXTINF:-1 group-title="Nhóm Kênh Thể Thao " tvg-logo="",True Premier Football 4
+http://livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186571&extension=m3u8
+
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/CCTV-1_HD.png/revision/latest?cb=20220508121352&path-prefix=vi",CCTV1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CCTV-2_HD.png/revision/latest?cb=20220508121311&path-prefix=vi",CCTV2

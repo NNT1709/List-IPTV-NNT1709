@@ -1,7 +1,7 @@
 #List IPTV Thuộc Bởi NNT1709 Network
 https://nnt1709network.blogspot.com
 
-#EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/d/d9/1000100242.png/revision/latest?cb=20240117110654",Chill With Na
+#EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/d/d9/1000100242.png/revision/latest?cb=20240117110654",NNT1709 Channel
 https://doitac.nekocdn.xyz/NNT1709Ch/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e6/Logo_lvtt.png/revision/latest?cb=20240323163414&path-prefix=vi",LVTT
 https://doitac.nekocdn.xyz/LVTTTV/index.m3u8
@@ -210,7 +210,7 @@ http://103.130.141.67:81/live/12/playlist.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7e/CCTV13_logo_2019.png/revision/latest?cb=20220508121826&path-prefix=vi",CCTV13
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/5/58/CCTV14_logo_2015.png/revision/latest?cb=20220509130048&path-prefix=vi",CCTV14
-https://edge1.laotv.la/live/CCTV14/index.m3u8
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctvsehd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8a/CCTV15_logo_2015.png/revision/latest?cb=20220510102048&path-prefix=vi",CCTV15
 https://edge1.laotv.la/live/CCTV15/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/CCTV-16_4K.png/revision/latest?cb=20220508121932&path-prefix=vi",CCTV16

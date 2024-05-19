@@ -200,7 +200,7 @@ https://z88.ubtvfans.com/live/rx1/2757/a75508a147ffe80a289d9674f341441d/index.m3
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fe/CCTV8_logo_2015.png/revision/latest?cb=20220509125301&path-prefix=vi",CCTV8
 https://z88.ubtvfans.com/live/rx1/208/c11e1abfdb3e38f2c3427a2d50622889/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b0/CCTV-9_HD.png/revision/latest/scale-to-width-down/250?cb=20220227015414&path-prefix=vi",CCTV9
-https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+https://z88.ubtvfans.com/live/rx1/209/a4ec75f7403274e6b091bef73881603b/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3d/CCTV10_logo_2015.png/revision/latest?cb=20220509125329&path-prefix=vi",CCTV10
 http://103.130.141.67:81/live/10/playlist.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/CCTV11_logo_2015.png/revision/latest?cb=20220509125336&path-prefix=vi",CCTV11
@@ -221,6 +221,10 @@ https://epg.pw/stream/dddefc79612b67b3cf82b2c6e138c410f87628a60ce50a269f6e8dec05
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
 https://z88.ubtvfans.com/live/rx1/1499/146020831c5118e1fad955a8c38fc03f/index.m3u8
+#EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
+https://z88.ubtvfans.com/live/rx1/224/c54ace8dbf76790c64f75dc561d1414a/index.m3u8
+#EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png",四川卫视
+https://z88.ubtvfans.com/live/rx1/233/51e0ac8ddef10dc81035c0ea50fa3afc/index.m3u8
 
 #EXTINF:-1 group-title="Nhóm Kênh Phát Thanh " tvg-logo="https://static.wikia.nocookie.net/central/images/a/a9/NNT1709_Radio.png/revision/latest?cb=20240221074353",NNT1709 Radio
 https://stream.zeno.fm/crwtkeidk9vuv

@@ -161,8 +161,6 @@ http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
 http://s4.nihontv.net:21585/cartoon/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Cartoon_Network_logo.svg/revision/latest?cb=20230502034414&path-prefix=vi",Cartoon Network Asia
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Cartoon_Network_logo.svg/revision/latest?cb=20230502034414&path-prefix=vi",Cartoon Network Asia (Luồng LaoTV)
-https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b8/Cartoonito_logo.png/revision/latest?cb=20240103022339&path-prefix=vi",Cartoon Nito Asia
 https://bkm.beetv.kz/btv/live/hls/000000160.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Thiếu Nhi " tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/Animax_2016.png/revision/latest?cb=20231230054213&path-prefix=vi",Animax (Luồng NNT1709 Network)
@@ -229,6 +227,8 @@ https://z88.ubtvfans.com/live/rx1/233/51e0ac8ddef10dc81035c0ea50fa3afc/index.m3u
 https://z88.ubtvfans.com/live/rx1/2830/6784d3e94e7e5ce76a21d9158379ca95/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
 https://z88.ubtvfans.com/live/rx1/218/de26a021175af7cdc84af7e842ed4c6e/index.m3u8
+#EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Cartoon_Network_logo.svg/revision/latest?cb=20230502034414&path-prefix=vi",卡通网络
+https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
 
 #EXTINF:-1 group-title="Nhóm Kênh Phát Thanh " tvg-logo="https://static.wikia.nocookie.net/central/images/a/a9/NNT1709_Radio.png/revision/latest?cb=20240221074353",NNT1709 Radio
 https://stream.zeno.fm/crwtkeidk9vuv

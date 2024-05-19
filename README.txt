@@ -202,7 +202,7 @@ https://z88.ubtvfans.com/live/rx1/208/c11e1abfdb3e38f2c3427a2d50622889/index.m3u
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b0/CCTV-9_HD.png/revision/latest/scale-to-width-down/250?cb=20220227015414&path-prefix=vi",CCTV9
 https://z88.ubtvfans.com/live/rx1/209/a4ec75f7403274e6b091bef73881603b/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3d/CCTV10_logo_2015.png/revision/latest?cb=20220509125329&path-prefix=vi",CCTV10
-http://103.130.141.67:81/live/10/playlist.m3u8
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv10hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/CCTV11_logo_2015.png/revision/latest?cb=20220509125336&path-prefix=vi",CCTV11
 http://103.130.141.67:81/live/11/playlist.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/CCTV12_logo_2015.png/revision/latest?cb=20220509125954&path-prefix=vi",CCTV12

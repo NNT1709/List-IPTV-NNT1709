@@ -192,7 +192,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CCTV-5_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest/scale-to-width-down/250?cb=20220319061806&path-prefix=vi",CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/CCTV5%2B_HD.png/revision/latest/scale-to-width-down/250?cb=20220226104639&path-prefix=vi",CCTV5+
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv5phd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/CCTV6_logo_2015.png/revision/latest?cb=20220514112708&path-prefix=vi",CCTV6 - China Movie
 https://epg.pw/stream/f2a3f4d8ff377b5c5fb5eadcb530e207bb3c8a43f7d674e2edd6da7f850b010b.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7a/CCTV-7_HD.png/revision/latest?cb=20230320093155&path-prefix=vi",CCTV7

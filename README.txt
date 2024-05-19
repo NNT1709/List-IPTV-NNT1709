@@ -1,4 +1,4 @@
-#List IPTV Thuộc Bởi NNT1709 Network 
+#List IPTV Thuộc Bởi NNT1709 Network
 https://nnt1709network.blogspot.com
 
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/d/d9/1000100242.png/revision/latest?cb=20240117110654",NNT1709 Channel
@@ -212,7 +212,7 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/5/58/CCTV14_logo_2015.png/revision/latest?cb=20220509130048&path-prefix=vi",CCTV14
 http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctvsehd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8a/CCTV15_logo_2015.png/revision/latest?cb=20220510102048&path-prefix=vi",CCTV15
-https://edge1.laotv.la/live/CCTV15/index.m3u8
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv15hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/CCTV-16_4K.png/revision/latest?cb=20220508121932&path-prefix=vi",CCTV16
 https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/9/96/CCTV-17_HD.png/revision/latest?cb=20230320092913&path-prefix=vi",CCTV17

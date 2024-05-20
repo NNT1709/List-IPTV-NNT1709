@@ -57,7 +57,7 @@ https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/06/Vie_Channel.png/revision/latest?cb=20240104083041&path-tiền tố=vi",HTV2
 https://vc.101vn.com/htv/htvcmb.php?id=2669
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/HTV3_logo_2018-nay.png/revision/latest?cb =20231116060153&path-prefix=vi",HTV3
-http://iptvzin.asuscomm.com:9876/rtp/232.84.3.56:11716
+https://vc.101vn.com/htv/htvcmb.php?id=2535
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/de/HTV_Key_logo_2022.png/revision/latest?cb=20230413121514&path-prefix=vi",HTV Key
 https://vc.101vn.com/htv/htvcmb.php?id=2528
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0c/HTV7_logo_2023.png/revision/latest?cb=20240207041541&path-tiền tố=vi",HTV7

@@ -65,7 +65,7 @@ https://vc.101vn.com/htv/htvcmb.php?id=256
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/HTV9_logo_ch%C3%ADnh_28.07-04.08.2023.png/revision/latest?cb=20230731122629&path-prefix=vi",HTV9
 https://vc.101vn.com/htv/htvcmb.php?id=2667
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/HTV_co.op_2018.png/revision/latest?cb=20231022095129&path-prefix=vi",HTV Co.op
-https://1011337676.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
+https://vc.101vn.com/htv/htvcmb.php?id=31973
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/HTV_Th%E1%BB%83_thao_logo.png/revision/latest?cb=20231108113057&path-prefix=vi",HTV Thể Thao
 http://171.238.180.25:18080/304.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/06/Vie_Channel.png/revision/latest?cb=20240104083041&path-tiền tố=vi",HTV2 (Dự Phòng)

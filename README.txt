@@ -227,6 +227,8 @@ https://z88.ubtvfans.com/live/rx1/233/51e0ac8ddef10dc81035c0ea50fa3afc/index.m3u
 https://z88.ubtvfans.com/live/rx1/2830/6784d3e94e7e5ce76a21d9158379ca95/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
 https://z88.ubtvfans.com/live/rx1/218/de26a021175af7cdc84af7e842ed4c6e/index.m3u8
+#EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%AD%E5%9B%BD/%E6%B5%99%E6%B1%9F/%E6%B5%99%E6%B1%9F%E6%B0%91%E7%94%9F%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93.png",浙江民生休闲
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Trung Quốc " tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Cartoon_Network_logo.svg/revision/latest?cb=20230502034414&path-prefix=vi",卡通网络
 https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
 

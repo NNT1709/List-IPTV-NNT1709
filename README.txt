@@ -2,19 +2,19 @@
 https://nnt1709network.blogspot.com
 
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/d/d9/1000100242.png/revision/latest?cb=20240117110654",NNT1709 Channel
-https://doitac.nekocdn.xyz/NNT1709Ch/index.m3u8
+
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e6/Logo_lvtt.png/revision/latest?cb=20240323163414&path-prefix=vi",LVTT
-https://doitac.nekocdn.xyz/LVTTTV/index.m3u8
+
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/4/4d/Kpt.png/revision/latest?cb=20240221072137",KPT
-https://doitac.nekocdn.xyz/KPTTV/index.m3u8
+
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/f/f1/Tpv1_tpv2.png/revision/latest?cb=20240221072755",TPV1
-https://doitac.nekocdn.xyz/TPV/index.m3u8
+
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/1710653589104.png/revision/latest?cb=20240317053753&path-prefix=vi",ATV1
-https://doitac.nekocdn.xyz/ATVHD/index.m3u8
+
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/b/b3/Host_media.png/revision/latest?cb=20240221105022", Host Weekly
-https://doitac.nekocdn.xyz/HostWeekly/index.m3u8
+
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/b/b3/Host_media.png/revision/latest?cb=20240221105022", VMK Khang Television
-https://doitac.nekocdn.xyz/VMK/index.m3u8
+
 
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/VTV1_01.11.2022-nay.png/revision/latest?cb=20230125075307&path-prefix=vi",VTV1
 http://171.238.181.52:18080/154.m3u8

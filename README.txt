@@ -7,7 +7,7 @@ https://doitac.nekocdn.xyz/NNT1709Ch/index.m3u8
 https://doitac.nekocdn.xyz/LVTTTV/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/4/4d/Kpt.png/revision/latest?cb=20240221072137",KPT
 https://doitac.nekocdn.xyz/KPTTV/index.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/f/f1/Tpv1_tpv2.png/revision/latest?cb=20240221072755",TPV1+TPV2
+#EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/f/f1/Tpv1_tpv2.png/revision/latest?cb=20240221072755",TPV1
 https://doitac.nekocdn.xyz/TPV/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/1710653589104.png/revision/latest?cb=20240317053753&path-prefix=vi",ATV1
 https://doitac.nekocdn.xyz/ATVHD/index.m3u8
@@ -27,9 +27,9 @@ https://20phut.cloud/tv/go.php?id=vtv4
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/VTV5_logo_2018_%28SD%2C_logo_tr%E1%BB%B1c_ti%E1%BA%BFp%29.png/revision/latest?cb=20230802074615&path-prefix=vi",VTV5
 http://171.238.181.52:18080/194.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/VTV5_T%C3%A2y_Nam_B%E1%BB%99_31.10.2022.png/revision/latest?cb=20231119124839&path-prefix=vi",VTV5 Tây Nam Bộ
-https://apps3.101vn.com/cl.php?id=7&token=(*)TEzLjE3OS4y(*)TUu(*)jE4&st=(*)9}(Tv(*)Tkv(*)j[gyN{O [gxOTOxNg&type=rd
+https://20phut.cloud/tv/go.php?id=vtv5tnb
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d5/VTV5_T%C3%A2y_Nguy%C3%AAn_%28B%E1%BA%A3n_2%29.png/revision/latest?cb=20220530125853&path-prefix=vi",VTV5 Tây Nguyên
-https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv5tn-720p.m3u8
+https://20phut.cloud/tv/go.php?id=vtv5tn
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/05/VTV_C%E1%BA%A7n_Th%C6%A1_HD_logo_m%C3%A0n_h%C3%ACnh_2022.png/revision/latest?cb=20240114133012&path-prefix=vi",VTV Cần Thơ
 http://171.238.181.52:18080/156.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ea/VTV7_logo_2018-2022_%28HD%29.png/revision/latest?cb=20230927051023&path-prefix=vi",VTV7

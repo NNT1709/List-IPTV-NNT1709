@@ -11,8 +11,10 @@ https://doitac.nekocdn.xyz/KPTTV/index.m3u8
 https://doitac.nekocdn.xyz/TPV/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/1710653589104.png/revision/latest?cb=20240317053753&path-prefix=vi",ATV1
 https://doitac.nekocdn.xyz/ATVHD/index.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/b/b3/Host_media.png/revision/latest?cb=20240221105022", Host Media
+#EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/b/b3/Host_media.png/revision/latest?cb=20240221105022", Host Weekly
 https://doitac.nekocdn.xyz/HostWeekly/index.m3u8
+#EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/b/b3/Host_media.png/revision/latest?cb=20240221105022", VMK Khang Television
+https://doitac.nekocdn.xyz/VMK/index.m3u8
 
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/VTV1_01.11.2022-nay.png/revision/latest?cb=20230125075307&path-prefix=vi",VTV1
 http://171.238.181.52:18080/154.m3u8
@@ -21,7 +23,7 @@ http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/VTV3_01.11.2022-nay.png/revision/latest?cb=20230125075313&path-prefix=vi",VTV3
 http://171.238.180.25:18080/155.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/VTV4_21.02.2023-nay.png/revision/latest?cb=20230928042845&path-prefix=vi",VTV4
-http://s4.nihontv.net:21585/vtv4/index.m3u8
+https://20phut.cloud/tv/go.php?id=vtv4
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/VTV5_logo_2018_%28SD%2C_logo_tr%E1%BB%B1c_ti%E1%BA%BFp%29.png/revision/latest?cb=20230802074615&path-prefix=vi",VTV5
 http://171.238.181.52:18080/194.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/VTV5_T%C3%A2y_Nam_B%E1%BB%99_31.10.2022.png/revision/latest?cb=20231119124839&path-prefix=vi",VTV5 Tây Nam Bộ
@@ -31,11 +33,11 @@ https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv5tn-720p.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/05/VTV_C%E1%BA%A7n_Th%C6%A1_HD_logo_m%C3%A0n_h%C3%ACnh_2022.png/revision/latest?cb=20240114133012&path-prefix=vi",VTV Cần Thơ
 http://171.238.181.52:18080/156.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ea/VTV7_logo_2018-2022_%28HD%29.png/revision/latest?cb=20230927051023&path-prefix=vi",VTV7
-https://epg.pw/stream/efca89ebccf8f89f7d3a768cf4e58d1464c287f8a123f2d93ff6c984889493dd.m3u8
+https://20phut.cloud/tv/go.php?id=vtv7
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/VTV8_logo_%28s%E1%BB%AD_d%E1%BB%A5ng_t%E1%BB%AB_ch%C6%B0%C6%A1ng_tr%C3%ACnh_Th%E1%BB%9Di_s%E1%BB%B1%29.png/revision/latest?cb=20220206052346&path-prefix=vi",VTV8
-http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/462220505?profile=pass
+https://20phut.cloud/tv/go.php?id=vtv8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/VTV9_logo_%28%C3%A1p_d%E1%BB%A5ng_cho_s%C3%B3ng_HD%29.png/revision/latest?cb=20211230021601&path-prefix=vi",VTV9
-https://epg.pw/stream/722db3a4b645c5dc55cb98030900b1847691232b3b664067ba047c74213e32c4.m3u8
+https://20phut.cloud/tv/go.php?id=vtv9
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/VTV1_01.11.2022-nay.png/revision/latest?cb=20230125075307&path-prefix=vi",VTV1 (Dự Phòng)
 http://s4.nihontv.net:21585/vtv1/index.m3u8
 #EXTINF:-1 group-title="Nhóm Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/VTV2_14-15.05.2023%3B_06-14.06.2023.png/revision/latest?cb=20230928042850&path-prefix=vi",VTV2 (Dự Phòng)

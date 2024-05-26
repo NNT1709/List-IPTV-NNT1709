@@ -1,3 +1,5 @@
+#Thông Báo: Từ Ngày 1/6/2024, List IPTV Thuộc NNT1709 Network Sẽ Chính Thức Dừng Hoạt Động, Đồng Nghĩa Với Việc Sau Thời Điểm Này List Sẽ Không Còn Truy Cập Được Nữa, Trân Thành Cảm Ơn Mọi Người Đã Ủng Hộ List IPTV Của NNT1709 Network Trong Suốt Thời Gian Qua, Tạm Biệt!
+
 #List IPTV Thuộc Bởi NNT1709 Network
 https://nnt1709network.blogspot.com
 

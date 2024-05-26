@@ -1,7 +1,10 @@
-#Thông Báo: Từ Ngày 1/6/2024, List IPTV Thuộc NNT1709 Network Sẽ Chính Thức Dừng Hoạt Động, Đồng Nghĩa Với Việc Sau Thời Điểm Này List Sẽ Không Còn Truy Cập Được Nữa, Trân Thành Cảm Ơn Mọi Người Đã Ủng Hộ List IPTV Của NNT1709 Network Trong Suốt Thời Gian Qua, Tạm Biệt!
+#Thông Báo: kể Từ Ngày 1/6/2024, List IPTV Thuộc NNT1709 Network Sẽ Chính Thức Dừng Hoạt Động, Đồng Nghĩa Với Việc Sau Thời Điểm Này List IPTV Sẽ Không Còn Truy Cập Được Nữa, List Sẽ Được Duy Trì Cho Đến Hết Ngày 1/6/2024, Trân Thành Cảm Ơn Mọi Người Đã Ủng Hộ List IPTV Của NNT1709 Network Trong Suốt Thời Gian Qua, Tạm Biệt!
 
 #List IPTV Thuộc Bởi NNT1709 Network
 https://nnt1709network.blogspot.com
+
+#EXTINF:-1 group-title="Thông Báo" tvg-logo="",Thông Báo Dừng Hoạt Động List IPTV
+https://archive.org/download/km_20240526-1_720p_12f_20240526_182605/km_20240526-1_720p_12f_20240526_182605.mp4
 
 #EXTINF:-1 group-title="Nhóm Kênh Nội Bộ" tvg-logo="https://static.wikia.nocookie.net/central/images/d/d9/1000100242.png/revision/latest?cb=20240117110654",NNT1709 Channel
 
